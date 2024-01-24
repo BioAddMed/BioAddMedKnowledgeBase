@@ -55,7 +55,6 @@ html,main,body{
 p,h2,a{
   color: var(--text-color);
   max-width: 100%;
-  word-break: break-all;
 }
 
 /* Style sortowania */
